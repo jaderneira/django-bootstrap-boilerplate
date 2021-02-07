@@ -1,7 +1,7 @@
 
 
 # Django project with Bootstrap and font-awesome
-<img src="https://img.shields.io/badge/django-3.1.5-green"><img src="https://img.shields.io/static/v1?label=licence&message=GPL&color=blue"><img src="https://img.shields.io/static/v1?label=build&message=passing&color=green">
+<img src="https://img.shields.io/badge/django-3.1.5-green"><img src="https://img.shields.io/badge/bootstrap-5.0.0--beta1-purple"><img src="https://img.shields.io/badge/fontawesome-5.15.2-navy"><img src="https://img.shields.io/static/v1?label=licence&message=GPL&color=blue"><img src="https://img.shields.io/static/v1?label=build&message=passing&color=green">
 
 ## Usage
 
